@@ -7,6 +7,7 @@ Build the docker
 ```bash
 sudo docker build -t <container-name>:<version_number> .
 ```
+Ex: sudo docker build -t java-test:1.0 .
 
 List of current images
 ```bash
@@ -16,7 +17,6 @@ Create container
 ```bash
 sudo docker run <container-name>:<version_number>
 ```
-Ex: sudo docker run java-test:1.0
 
 Create container and run in the background
 ```bash
