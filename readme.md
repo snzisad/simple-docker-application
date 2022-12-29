@@ -13,6 +13,11 @@ Compose docker in the background
 sudo docker compose up -d
 ```
 
+Stop the docker that is running in the background
+```bash
+sudo docker compose down
+```
+
 Build the docker
 ```bash
 sudo docker build -t <container-name>:<version_number> .
