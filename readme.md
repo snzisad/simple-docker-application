@@ -8,6 +8,11 @@ Compose docker
 sudo docker compose up --build
 ```
 
+Compose docker in the background
+```bash
+sudo docker compose up -d
+```
+
 Build the docker
 ```bash
 sudo docker build -t <container-name>:<version_number> .
