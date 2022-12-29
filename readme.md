@@ -1,5 +1,5 @@
 # This is a simple docker java appliction
-In this repository, I have use docker to run a java class. This repository is just for understanding the docker concept.
+In this repository, I have used docker to run a java class. This repository is just for understanding the docker concept.
 
 ## Important commands
 
