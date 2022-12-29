@@ -3,6 +3,11 @@ In this repository, I have used docker to run a java class. This repository is j
 
 ## Important commands
 
+Compose docker
+```bash
+sudo docker compose up --build
+```
+
 Build the docker
 ```bash
 sudo docker build -t <container-name>:<version_number> .
