@@ -1,6 +1,0 @@
-com/cloud_service/lab4/config/AutoScanFeature.class
-com/cloud_service/lab4/resource/MyResource.class
-com/cloud_service/lab4/services/MessageService.class
-META-INF/hk2-locator/default
-com/cloud_service/lab4/App.class
-com/cloud_service/lab4/services/MessageServiceImpl.class
